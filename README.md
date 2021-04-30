@@ -4,11 +4,7 @@
 
 ### Welcome
 
-Hello everyone! Thank you for coming to today's WebAR workshop! My name is Daekun, and I will be leading the workshop today. During the workshop, if you have any question at any point, please feel free to reach out to Falah, Saquib, Towseef, and Kira through the Discord chat. Today, we will be building an AR Ruler, similar to what you see on iOS Measure app, using WebAR and A-Frame.
-
-### What’s UW VR?
-
-UW VR is a student organization at the University of Waterloo dedicated to increasing awareness about careers in the field of Virtual Reality and Augmented Reality, encouraging project development among students, and hosting cool events around new experiences in VR. We started in 2018 as Canada's first ever student VR community, and our current team, consisting of Falah, Saquib, Towseef, Kira and myself, carry the same passion that grew the club to where it stands today. All of us have had extensive experience in the field, at places like Facebook's Oculus, Electronic Arts, and Spatial.
+Hello everyone! Thank you for coming to today's WebAR workshop! My name is Daekun, and I will be leading the workshop today. During the workshop, if you have any question at any point, please feel free to reach out to Danilo and Anshuman through the Discord chat. Today, we will be building an AR Ruler, similar to what you see on iOS Measure app, using WebAR and A-Frame.
 
 ### AR/VR Brief Overview
 
