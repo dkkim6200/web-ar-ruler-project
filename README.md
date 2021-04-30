@@ -1,4 +1,4 @@
-# UW VR Club Workshop: AR Ruler with WebAR & A-Frame
+# Toronto SIGGRAPH Workshop: AR Ruler with WebAR & A-Frame
 
 ## Presentation
 
