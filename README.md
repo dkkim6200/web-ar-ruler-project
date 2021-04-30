@@ -4,7 +4,7 @@
 
 ### Welcome
 
-Hello everyone! Thank you for coming to today's WebAR workshop! My name is Daekun, and I will be leading the workshop today. During the workshop, if you have any question at any point, please feel free to reach out to Danilo and Anshuman through the Discord chat. Today, we will be building an AR Ruler, similar to what you see on iOS Measure app, using WebAR and A-Frame.
+Hello everyone! Thank you for coming to today's WebAR workshop! My name is Daekun, and I will be leading the workshop today. During the workshop, if you have any question at any point, please feel free to reach out to Danilo and Anshuman that will be in the gathering hall today. Today, we will be building an AR Ruler, similar to what you see on iOS Measure app, using WebAR and A-Frame.
 
 ### AR/VR Brief Overview
 
