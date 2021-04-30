@@ -1,4 +1,4 @@
-# Toronto SIGGRAPH Workshop: AR Ruler with WebAR & A-Frame
+# Scena 360 x Toronto SIGGRAPH Workshop: AR Ruler with WebAR & A-Frame
 
 ## Presentation
 
